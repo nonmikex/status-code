@@ -1,5 +1,5 @@
 # Http Status Code Guide
 
-<img src='./assets/home-screen.jpg' />
-<img src='./assets/info-screen.jpg' />
+<img src='./assets/home-screen.png' />
+<img src='./assets/info-screen.png' />
 
